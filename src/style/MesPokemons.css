@@ -1,0 +1,19 @@
+.espacement{
+    margin: auto;
+    padding: 30px;
+}
+.decalage{
+    margin: 5px;
+    width: 300px;
+}
+
+.long{
+    margin-top: 20px;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(203, 66, 66);
+    border-radius: 3%;
+    border-color:rgb(203, 66, 66);
+    ;
+
+}

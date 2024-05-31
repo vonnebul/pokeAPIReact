@@ -1,0 +1,12 @@
+.red{
+    background-color: rgb(203, 66, 66);
+}
+.white{
+    color: white;
+    font-size: 30px;
+    margin: 15px;
+}
+.white:hover{
+    text-decoration: underline;
+    transform: scale(1.2,1.2);
+}
